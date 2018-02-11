@@ -1,2 +1,4 @@
-# HitAndBlow
-Hit and Blow, android5, kotlin
+# Hit and Blow
+- kotlin
+- android 5.x
+
