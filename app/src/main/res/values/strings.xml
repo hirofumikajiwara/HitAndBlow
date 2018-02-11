@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hit and Blow</string>
+    <string name="Apply">Apply</string>
+    <string name="Cancel">Cancel</string>
+    <string name="InputNumber">Input Number</string>
+    <string name="NewGame">New Game</string>
+    <string name="Exit">Exit</string>
+    <string name="GoodJob">Good Job!</string>
+</resources>
